@@ -19,3 +19,6 @@ Right now I have many drafts with titles and todos that I am willing to continue
 Right now I am far away from having a clear structure of this work in my head. I will put the articles in a high-level categories and organize it later as the content grow.
 
 This work is licensed under [the Unlicense license](./LICENSE)
+
+## TMP
+I'M JUST LEANING HOW TO MAKE PULL REQUEST , PLEASE APPROVE 
